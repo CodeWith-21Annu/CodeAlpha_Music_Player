@@ -26,3 +26,4 @@ CodeAlpha_Music_Player/
 ├── song2.mp3
 ├── cover1.jpg
 └── cover2.jpg
+
